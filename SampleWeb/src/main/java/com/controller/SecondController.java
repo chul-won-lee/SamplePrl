@@ -27,6 +27,7 @@ public class SecondController extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		System.out.println("second Controller");
+		System.out.println("second Controller main");
 	}
 
 	/**
